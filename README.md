@@ -6,4 +6,4 @@ A lightweight server for small tasks written in node
 
 | Method | Route     | Params   | Description                                                                       |
 | ------ | --------- | -------- | --------------------------------------------------------------------------------- |
-| POST   | /api/json | { hats } | Receives an object with the "hats" property and converts that into a spreadsheet. |
+| POST   | /api/xlsx | { hats } | Receives an object with the "hats" property and converts that into a spreadsheet. |
